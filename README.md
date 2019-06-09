@@ -1,10 +1,12 @@
-# 勤怠システムを開発しよう！
-
-これはセレブエンジニアサロンの教材で作られたサンプルアプリケーションです。
+このアプリはポートフォリオです。
 
 ## 開発環境
 
 * AWS Cloud9
-* Ruby
-* Rails
+* Ruby2.6.0
+* Ruby on Rails 5.1.6
+* HTML5
+* CSS3
+* MySQL
+* Bootstrap
 * Git
